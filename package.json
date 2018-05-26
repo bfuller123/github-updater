@@ -1,0 +1,22 @@
+{
+  "name": "github-updater",
+  "version": "1.0.0",
+  "description": "NPM tool that will look for updates to develop branches, and merge them into your local.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfuller123/github-updater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bfuller123/github-updater/issues"
+  },
+  "homepage": "https://github.com/bfuller123/github-updater#readme",
+  "dependencies": {
+    "github-api": "^3.0.0"
+  }
+}
